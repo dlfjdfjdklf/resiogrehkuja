@@ -1,5 +1,4 @@
-# resiogrehkuja
-efeargregregaer
+
 using System.Collections; 
 
 using System.Collecttions.Generic; 
